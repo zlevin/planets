@@ -1,2 +1,3 @@
 *.tmp
 !special.tmp
+log_*
